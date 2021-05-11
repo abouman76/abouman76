@@ -5,7 +5,7 @@ You can check out my repository's and see what i did so far. For example ["Socia
 
 JavaScript is the only language so far, but working on other skill, like JEST and combine my developing skills with testing skills.
 
-I am currently looking for the opportunity to work as a junior frontend developer, and perhaps combine this with a traineeship as a Test Automation Engineer. Do reach out to me if you want to talk!
+I am currently looking for the opportunity to work as a _junior frontend developer_, and perhaps combine this with a traineeship as a _Test Automation Engineer_. Please, do reach out to me if you want to talk!
 
 <!--
 **abouman76/abouman76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
