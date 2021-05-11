@@ -1,9 +1,9 @@
 # Hi you all,
 I am Arnoud and i hope to graduate from Novi Hogeschool as a frontend developer before the end of may 2021.
 
-You can check out my repository's and see what i did so far. For example ["Sociaal Oosterhout"](https://github.com/abouman76/Eind-Project-Arnoud-Bouman.git) which a social platform application and was build with React and Firebase as a "backend" database.
+You can check out my repository's and see what i did so far. For example ["Sociaal Oosterhout"](https://github.com/abouman76/Eind-Project-Arnoud-Bouman.git) which is a social platform application and was build with React and uses Firebase as a "backend" database. This was my final project for Novi Hogeschool.
 
-JavaScript is the only language so far, but working on other skill, like JEST and combine developing skills with testing skills.
+JavaScript is the only language so far, but working on other skill, like JEST and combine my developing skills with testing skills.
 
 I am currently looking for the opportunity to work as a junior frontend developer, and perhaps combine this with a traineeship as a Test Automation Engineer. Do reach out to me if you want to talk!
 
