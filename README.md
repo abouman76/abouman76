@@ -5,8 +5,7 @@ You can check out my repository's and see what i did so far. For example ["Socia
 
 :arrow_left:  In my profile you can find my coding skills. JavaScript is the only language so far, but working on other skills, like JEST and Cypress and combining my developing skills with testing skills.
 
-- 🌱  I’m currently learning: Cypress Automation Testing
-- 📜  I am planning to get my ISTQB Certification next
+- 🌱  I’m currently studying for my ISTQB Certification
 
 I am currently looking for the opportunity to work as a _QA-Engineer_ or a combination of _QA-Engineer and frontend developer_. So please, do reach out to me if you want to talk!
 
