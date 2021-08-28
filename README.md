@@ -8,7 +8,7 @@ You can check out my repository's and see what i did so far. For example ["Socia
 - 🌱 I'm currently learning TypeScript.
 - 🌱 I’m planning to get my a ISTQB Certification in the near future.
 
-I am seeking the opportunity to work as a Test Automation Engineer or a combination of a frontend developer and Test Automation Engineer. So please, do reach out to me if you want to talk!
+I am seeking the opportunity to work as a Test Automation Engineer or a combination as a frontend developer and Test Automation Engineer. So please, do reach out to me if you want to talk!
 
 <!--
 **abouman76/abouman76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
