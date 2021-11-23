@@ -5,7 +5,7 @@ You can check out my repository's and see what i did so far. For example ["Socia
 
 :arrow_left:  In my profile you can find my coding skills. JavaScript is the only language so far, but working on other skills and combining my developing skills with testing skills.
 
-- 🌱 I'm currently learning TypeScript.
+- 🌱 I'm currently learning Angular and TypeScript.
 - 🌱 I’m planning to get my a ISTQB Certification in the near future.
 
 I am seeking the opportunity to work as a Test Automation Engineer or a combination as a frontend developer and Test Automation Engineer. So please, do reach out to me if you want to talk!
