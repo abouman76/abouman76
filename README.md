@@ -1,8 +1,10 @@
-# Hi you all,
+Hi!
 
-I am Arnoud and i got retrained as a Test Automation Developer and FrontEnd Developer. I graduated from Novi Hogeschool as a frontend developer in mai 2021. I am currently developing my testing skills and completed several online course in test automation. This year so far i became a ISTQB Certified Tester and a Professional Scrum Master (PSM I). As of august 2021 i work as a Test _(automation)_ Engineer.
+I am Arnoud and i got retrained as a Test Automation Developer and FrontEnd Developer. I graduated from Novi Hogeschool as a frontend developer in mai 2021. I am currently developing my testing skills and completed several *(online)* courses in test automation with Cypress. This year so far i became a ISTQB Certified Tester and a Professional Scrum Master (PSM I)
 
-- 🌱 I'm currently learning TypeScript and developing my advanced Cypress Skills.
+- 🌱 I'm currently "developing" my advanced Cypress Skills.
+
+And the learning will not stop, as I will keep on learning Cypress, JavaScript - TypeScript and involved *(new)* systems.
 
 <!--
 **abouman76/abouman76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
