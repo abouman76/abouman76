@@ -1,8 +1,6 @@
 Hi!
 
-I am Arnoud and i got retrained as a Test Automation Developer and FrontEnd Developer. I graduated from Novi Hogeschool as a frontend developer in mai 2021. I am currently developing my testing skills and completed several *(online)* courses in test automation with Cypress. This year so far i became a ISTQB Certified Tester and a Professional Scrum Master (PSM I)
-
-- 🌱 I'm currently "developing" my advanced Cypress Skills.
+I am Arnoud and i got retrained as a Test *Automation* Developer and FrontEnd Developer. I graduated from Novi Hogeschool as a frontend developer in mai 2021. I became a ISTQB Certified Tester and a Professional Scrum Master (PSM I)
 
 And the learning will not stop, as I will keep on learning Cypress, JavaScript - TypeScript and involved *(new)* systems.
 
